@@ -1,0 +1,7 @@
+Other or undefined security status
+
+Something related to security caused the message to be
+returned, and the problem cannot be well expressed with any of
+the other provided detail codes.  This status code may also be
+used when the condition cannot be further described because of
+security policies in force.

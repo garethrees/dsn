@@ -1,0 +1,5 @@
+Other or undefined mail system status
+
+The destination system exists and normally accepts mail, but
+something about the system has caused the generation of this
+DSN.

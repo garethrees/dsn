@@ -1,0 +1,4 @@
+Other or undefined mailbox status
+
+The mailbox exists, but something about the destination mailbox
+has caused the sending of this DSN.

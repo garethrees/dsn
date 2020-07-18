@@ -1,0 +1,6 @@
+Permanent Failure
+
+A permanent failure is one which is not likely to be resolved
+by resending the message in the current form.  Some change to
+the message or the destination must be made for successful
+delivery.

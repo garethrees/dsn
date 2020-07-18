@@ -1,0 +1,7 @@
+Persistent Transient Failure
+
+A persistent transient failure is one in which the message as
+sent is valid, but persistence of some temporary condition has
+caused abandonment or delay of attempts to send the message.
+If this code accompanies a delivery failure report, sending in
+the future may be successful.

@@ -1,0 +1,5 @@
+Other undefined Status
+
+Other undefined status is the only undefined error code.  It
+should be used for all errors for which only the class of the
+error is known.
